@@ -9,23 +9,20 @@ headings: "intro,presentation_format,topics,guidelines,timeline_deadlines,why_pr
 
 We are thrilled to announce that the Call for Abstracts for the YouthMappers Bangladesh Summit 2025 is officially open! This is your platform to share groundbreaking ideas, inspire peers, and shape the future of open mapping in Bangladesh and beyond. Whether you’re a mapper, developer, researcher, or community advocate, we invite you to contribute to this vibrant gathering of innovators.
 
-Submit your abstract [here](https://forms.gle/7GLab1pGtWc9DtNA8).
+Submit your abstract [here](https://forms.gle/7GLab1pGtWc9DtNA8).<br>
 *Deadline: 30 June 2025; 11:59 PM (GMT+6)*
 
 <h2 id="presentation_format">Presentation Formats</h2>
 
 Choose the format that best fits your work:
 
-1. Lightning Talk (5 minutes)
-    
+1. Lightning Talk (5 minutes)<br>
     Quick, impactful insights on geospatial tools, community projects, or chapter achievements. Ideal for sparking ideas!
 
-2. Presentation (10 minutes)
-
+2. Presentation (10 minutes)<br>
     Dive deeper! Share case studies, research findings, or innovative applications of open mapping in climate action, disaster response, urban planning, social development, or present your chapter.
 
-3. Workshop (45 minutes)
-
+3. Workshop (45 minutes)<br>
     Lead a hands-on session! Teach open-source tools (QGIS, OSM, Field Mapping) or demonstrate techniques that empower communities. Include clear learning outcomes.
 
 
