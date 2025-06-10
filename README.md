@@ -1,38 +1,34 @@
-# State of the Map 2022 Website
+# YouthMappers Bangladesh Summit 2025 Website
 
-This repo is the Jekyll configuration, styles and content powering https://2022.stateofthemap.org
+This repository contains the Jekyll configuration, styles, and content for the [YouthMappers Bangladesh Summit 2025 website](https://pstu-youthmappers.github.io/ymbdsummit2025).
 
-Note that the SotM program is managed through our submission system at https://pretalx.com/sotm2022. If you change it on the submission system, it will be updated on the website automatically. Do that rather than making pull requests on the "session" files here.
+## Local Installation
 
-## Local installation
+### Prerequisites
 
-### Install Jekyll
+- [Jekyll](https://jekyllrb.com/docs/installation/)
+- [Bundler](https://bundler.io/)
 
-See https://jekyllrb.com/docs/installation/
+### Getting Started
 
-### View locally
-
-* `git clone git@github.com:openstreetmap/stateofthemap-2022.git`
-* `cd stateofthemap-2022`
-* `jekyll serve -wl`
-* Point your browser to `http://localhost:4000/`
-
-## Docker
-
-Alternatively you can use Docker to install Jekyll and to serve the site within a container.
-
-### Using docker-compose
-
-* [Install docker-compose](https://docs.docker.com/compose/install/)
-* `git clone git@github.com:openstreetmap/stateofthemap-2022.git`
-* `cd stateofthemap-2022`
-* `docker-compose up --build`
-* Point your browser to `http://localhost:4000/`
-
-Alternatively if you are using docker-machine, replace localhost with the IP address from `docker-machine ip`
+1. Clone the repository:
+  ```sh
+  git clone https://github.com/PSTU-YouthMappers/ymbdsummit2025.git
+  ```
+2. Navigate to the project directory:
+  ```sh
+  cd ymbdsummit2025
+  ```
+3. Install dependencies:
+  ```sh
+  bundle install
+  ```
+4. Serve the site locally:
+  ```sh
+  bundle exec jekyll serve -wl
+  ```
+5. Open your browser and go to [http://localhost:4000/](http://localhost:4000/)
 
 ## Contributing
 
-### Code Style
-
-Please adhere to the code style rules in the supplied `.editorconfig` file. Instructions for [editors/IDEs](https://editorconfig.org/#download).
+We welcome contributions! Please open an issue or submit a pull request if you have suggestions or improvements.
