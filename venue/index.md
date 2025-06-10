@@ -7,7 +7,7 @@ headings: "intro,about_venue,getting-to,campus_navigation,accomodation,contact"
 
 <h2 id="intro">Short Description</h2>
 
-Venue: Patuakhali Science and Technology University (PSTU)
+Venue: Patuakhali Science and Technology University (PSTU)<br>
 Location: Dumki, Patuakhali, Bangladesh
 
 <!-- <h2 class='space-bottom1' id='covid19'>Covid19 regulations</h2>
